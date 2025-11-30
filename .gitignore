@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except recovery.img
+!recovery.img
+
+# Don't ignore .gitignore itself
+!.gitignore
